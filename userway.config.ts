@@ -5,6 +5,6 @@ export default {
   project: "cicd-action-sample",
   token: process.env.USERWAY_TOKEN,
   reportPaths: ["./uw-a11y-reports"],
-  server: 'https://api.qa.userway.org',
+  server: "https://api.qa.userway.dev",
 } satisfies Config;
 //asd
