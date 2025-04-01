@@ -1,10 +1,10 @@
 import type { Config } from "@userway/cicd-core";
 
 export default {
-  organization: "1-wjwzn",
-  project: "cicd-action-sample",
-  token: process.env.USERWAY_TOKEN,
+  organization: "acme-kuuzi",
+  project: "acme-business-site",
+  token: 'bokzixnftzgnpnnfwzmqgitlnn5wvyh85rdpadui',
   reportPaths: ["./uw-a11y-reports"],
   server: "https://api.qa.userway.dev",
 } satisfies Config;
-//asd
+//asdq

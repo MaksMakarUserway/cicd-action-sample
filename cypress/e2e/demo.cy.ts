@@ -6,6 +6,6 @@ it('should have the right text in the headline', () => {
 
   cy.userwayAnalysis({
     strict: false,
-    screenshots: false
+    elementsScreenshots: false,
   })
 });
